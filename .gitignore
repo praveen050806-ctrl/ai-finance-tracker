@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.env
+.DS_Store
+*.log
+instance/
+.idea/
+.vscode/
+
+# Local SQLite database — personal financial data shouldn't be committed
+data/*.db
